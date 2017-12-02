@@ -6,3 +6,10 @@ if (5>2) {
 if (2>5) {
   console.log("2 is greater than 5")
 }
+var dog = "satisfied"
+
+if (dog === "hungry") {
+  console.log("Refilling food bowl.")
+} else {
+  console.log("Reading newspaper.")
+}
